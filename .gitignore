@@ -1,0 +1,6 @@
+﻿/target/
+/.idea/
+/*.iml
+/todomk.mv.db
+/todomk.trace.db
+src/main/resources/keystore.p12
